@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "debug": "^4.2.0"
+    "debug": "^2.4.1"
   }
 }
