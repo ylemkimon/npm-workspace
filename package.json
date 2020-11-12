@@ -1,0 +1,10 @@
+{
+  "name": "npm-workspace",
+  "workspaces": [
+    "a",
+    "b"
+  ],
+  "devDependencies": {
+    "chalk": "^2.4.1"
+  }
+}
