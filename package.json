@@ -4,6 +4,7 @@
     "packages/*"
   ],
   "devDependencies": {
-    "chalk": "^2.4.1"
+    "chalk": "^2.4.1",
+    "lerna": "^3.22.1"
   }
 }
