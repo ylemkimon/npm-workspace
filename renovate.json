@@ -1,7 +1,0 @@
-{
-  "extends": [
-    "config:base",
-    ":prHourlyLimitNone"
-  ],
-  "rangeStrategy": "update-lockfile"
-}
