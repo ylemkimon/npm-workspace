@@ -1,8 +1,7 @@
 {
   "name": "npm-workspace",
   "workspaces": [
-    "a",
-    "b"
+    "packages/*"
   ],
   "devDependencies": {
     "chalk": "^2.4.1"
